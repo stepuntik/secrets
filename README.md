@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README for the "secrets" GitHub repository:
-
----
-
 # Secrets - Secure Password Management
 
 Secrets is a secure password management application designed to help you store and manage your sensitive login information. This repository contains the complete source code for Secrets, offering a foundation for building your password management solution.
@@ -60,7 +56,3 @@ Secrets is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 - This project draws inspiration from the need for secure password management in our digital lives.
-
----
-
-Feel free to use this template to create a README for your "secrets" repository. Customize it by including screenshots or additional details specific to your project.
